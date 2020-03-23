@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">COVID19_ADMIN</string>
+    <string name="login_or_signup">Accedi o registrati"</string>
+    <string name="insert_username">Inserisci il nome utente</string>
+    <string name="insert_password">Inserisci la password</string>
+    <string name="proceed">Procedi</string>
+    <string name="password_info">La password deve avere una lunghezza di minimo 7 caratteri e deve includere un numero, una lettera maiuscola e una lettera minusicola</string>
+    <string name="username_info">Il nome utente deve avere una lunghezza di minimo 5 caratteri</string>
+    <string name="login">Accedi</string>
+    <string name="signup">Registrati</string>
+    <string name="insert_phone_number">Inserisci numero di telefono</string>
+    <string name="verify">Verifica</string>
+    <string name="back">Indietro</string>
+    <string name="insert_code">Inserisci il codice ricevuto via SMS</string>
+    <string name="logout">Esci</string>
+    <string name="look_at">Inquadra un QRCode</string>
+</resources>
